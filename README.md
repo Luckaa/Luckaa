@@ -15,7 +15,6 @@
 
 - 💬 Ask me about anything [here](https://github.com/Luckaa/Luckaa/issues)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Luckaa&show_icons=true&theme=dracula&count_private=true)
 ## Technologies I use in my daily life
 
 <div style="display: inline_block">
